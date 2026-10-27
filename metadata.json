@@ -1,0 +1,6 @@
+{
+  "name": "NexusOps AI — Enterprise Operations Intelligence",
+  "description": "Intelligent operations command center for real-time business telemetry, incident response, service dependency analysis, and automated workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
